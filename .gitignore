@@ -1,0 +1,10 @@
+#ingore these folders
+.vscode
+.venv
+__pycache__
+
+#ignore these files
+
+#ignore these extensions
+*.pyc
+*.db
